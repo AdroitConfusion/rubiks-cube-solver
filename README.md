@@ -1,4 +1,4 @@
-# README for Python Rubik's Cube Solver
+# Python Rubik's Cube Solver
 
 ## Overview
 This Python program is designed to solve a Rubik's Cube. The application uses computer vision techniques to recognize the current state of the Rubik's Cube and then employs an algorithm to generate a sequence of moves that will solve the cube.
