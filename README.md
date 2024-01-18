@@ -5,6 +5,9 @@ This Python program is designed to solve a Rubik's Cube. The application uses co
 
 # Features
 Visual Recognition: Employs openCV to detect the configuration of the Rubik's Cube.
+
 Efficient Solving Algorithm: Utilizes Kociemba to find the shortest solution.
+
 Visual Guide: User can choose to use either contours or visual guides to determine the colors of the cubies of the Rubik's Cube.
+
 User Interface: Simple UI for easy operation and understanding.
